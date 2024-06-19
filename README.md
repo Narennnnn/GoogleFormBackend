@@ -13,9 +13,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Narennnnn/GoogleFormBackend.git
 ```
-```bash
-cd FormSubmissionBackend
-```
+
 ```bash
 npm install
 ```
