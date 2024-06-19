@@ -1,0 +1,18 @@
+{
+  "submissions": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890",
+      "github_link": "https://github.com/johndoe",
+      "stopwatch_time": "00:10:00"
+    },
+    {
+      "name": "Narendra Maurya",
+      "email": "nmaurya.engineer@gmail.com",
+      "phone": "7991362974",
+      "github_link": "https://github.com/Narennnnn",
+      "stopwatch_time": "00:10:00"
+    }
+  ]
+}

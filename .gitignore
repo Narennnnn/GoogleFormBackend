@@ -1,0 +1,16 @@
+# Directories
+bin/
+dist/
+node_modules/
+obj/
+public/
+src/
+views/
+
+# Specific files
+app.js
+app.js.map
+FormSubmissionBackend.njsproj
+FormSubmissionBackend.njsproj.user
+package-lock.json
+
