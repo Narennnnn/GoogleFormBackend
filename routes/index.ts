@@ -2,8 +2,7 @@ import { Request, Response } from 'express';
 import * as fs from 'fs';
 import path from 'path';
 
-const dbPath = path.join(__dirname, '../../db.json'); // Adjust path as per your actual structure
-
+const dbPath = path.join(__dirname, '../../db.json');
 export const pingHandler = (req: Request, res: Response) => {
     res.json({ success: true });
 };
@@ -69,3 +68,4 @@ export const searchByEmailHandler = (req: Request, res: Response) => {
         res.json({ success: true, submissions: filteredSubmissions });
     });
 };
+

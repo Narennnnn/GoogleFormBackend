@@ -13,6 +13,55 @@
       "phone": "7991362974",
       "github_link": "https://github.com/Narennnnn",
       "stopwatch_time": "00:10:00"
+    },
+    {
+      "name": "Arth",
+      "email": "fake@gmail.com",
+      "phone": "9829492780",
+      "github_link": "https://github.com/dummy",
+      "stopwatch_time": "00:10:10"
+    },
+    {
+      "name": "Virat Kohli",
+      "email": "kohli@gmail.com",
+      "phone": "7991356789",
+      "github_link": "http://github.com/viratKohli",
+      "stopwatch_time": "00:00:06"
+    },
+    {
+      "name": "Prabhat Pundeer",
+      "email": "punk@gmail.com",
+      "phone": "1234567890",
+      "github_link": "http://github.com/potatoPundeer",
+      "stopwatch_time": "00:00:08"
+    },
+    {
+      "name": "Vikas ",
+      "email": "yadavVikki@gmail.com",
+      "phone": "788899929",
+      "github_link": "http://github.com/vikki",
+      "stopwatch_time": "00:00:12"
+    },
+    {
+      "name": "Anushka ",
+      "email": "mochi@12gmail.com",
+      "phone": "9198168340",
+      "github_link": "http://github.com/mochianushka",
+      "stopwatch_time": "00:00:08"
+    },
+    {
+      "name": "anuj rawat",
+      "email": "rwtanuj231@gmail.com",
+      "phone": "89987889",
+      "github_link": "http://github.com/rwtanuu",
+      "stopwatch_time": "00:00:09"
+    },
+    {
+      "name": "Harkirat Singh",
+      "email": "hkirat@gmail.com",
+      "phone": "9897238769",
+      "github_link": "http://github.com/hkirat",
+      "stopwatch_time": "00:00:08"
     }
   ]
 }
