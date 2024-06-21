@@ -13,9 +13,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Narennnnn/GoogleFormBackend.git
 ```
-```bash
-cd FormSubmissionBackend
-```
+
 ```bash
 npm install
 ```
@@ -31,6 +29,8 @@ npm start
 ```bash
 http://localhost:3000/ping
 ```
+![image](https://github.com/Narennnnn/GoogleFormBackend/assets/120191897/6262857a-d85b-4cf8-ae9a-4e5ebbfaac1f)
+
 ### 2. Submit Endpoint
 ```bash
 http://localhost:3000/submit
@@ -45,13 +45,21 @@ http://localhost:3000/submit
   "stopwatch_time": "00:10:00"
 }
 ```
+![image](https://github.com/Narennnnn/GoogleFormBackend/assets/120191897/ff704712-26a7-4c9b-8706-a91fc90e4f2c)
+
+
 
 ### 3.Read Endpoint
 ```bash
 http://localhost:3000/read?index=1
 ```
+![image](https://github.com/Narennnnn/GoogleFormBackend/assets/120191897/326f948c-da90-4aad-b681-d76f84cf4a82)
+
 
 ### 4. Search By EMail-ID
 ```bash
 http://localhost:3000/searchByEmail?email=nmaurya.engineer@gmail.com
 ```
+
+![image](https://github.com/Narennnnn/GoogleFormBackend/assets/120191897/209989d6-d569-44e9-9ad9-c020284e68e9)
+
